@@ -6,7 +6,7 @@ import telebot
 from bs4 import BeautifulSoup
 #import telegram
 
-TOKEN = "1761043291:AAEdj2o3zXHMvNNb83jpLqZvxfdwNrS5aas"
+TOKEN = "TOKEN"
 bot = telebot.TeleBot(TOKEN)
 
 
